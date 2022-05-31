@@ -13,6 +13,9 @@ class SecondViewController: UIViewController {
     @IBOutlet weak var weightField: UITextField!
     @IBOutlet weak var heightField: UITextField!
     
+    //describing completion handler
+    public var completionHandlerName: ((String?)-> Void)?
+    public var completionHandlerBmi: ((String?)-> Void)?
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -28,5 +31,12 @@ class SecondViewController: UIViewController {
         return bmi
     }
     
+    //passing data to first screen with completion handler when button pressed
+    @IBAction func calculateButtonPressed(_ sender: UIButton) {
+        completionHandlerName?(nameField.text)
+        completionHandlerBmi?(String(format: "%.2f", calculateBmi()))
+        
+        dismiss(animated: true, completion: nil)
+    }
     
 }
