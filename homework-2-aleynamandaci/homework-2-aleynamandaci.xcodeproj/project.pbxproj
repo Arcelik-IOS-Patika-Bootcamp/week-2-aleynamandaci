@@ -14,6 +14,7 @@
 		427BE624284646400017FDAA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 427BE623284646400017FDAA /* Assets.xcassets */; };
 		427BE627284646400017FDAA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 427BE625284646400017FDAA /* LaunchScreen.storyboard */; };
 		427BE62F2846479F0017FDAA /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 427BE62E2846479F0017FDAA /* SecondViewController.swift */; };
+		4283152A28467D34006C31D1 /* bmi.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4283152928467D34006C31D1 /* bmi.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		427BE626284646400017FDAA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		427BE628284646400017FDAA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		427BE62E2846479F0017FDAA /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		4283152928467D34006C31D1 /* bmi.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = bmi.gif; path = ../../../../../Desktop/bmi.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				427BE623284646400017FDAA /* Assets.xcassets */,
 				427BE625284646400017FDAA /* LaunchScreen.storyboard */,
 				427BE628284646400017FDAA /* Info.plist */,
+				4283152928467D34006C31D1 /* bmi.gif */,
 			);
 			path = "homework-2-aleynamandaci";
 			sourceTree = "<group>";
@@ -131,6 +134,7 @@
 				427BE627284646400017FDAA /* LaunchScreen.storyboard in Resources */,
 				427BE624284646400017FDAA /* Assets.xcassets in Resources */,
 				427BE6222846463F0017FDAA /* Main.storyboard in Resources */,
+				4283152A28467D34006C31D1 /* bmi.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
