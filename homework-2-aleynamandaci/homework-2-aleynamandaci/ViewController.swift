@@ -32,6 +32,7 @@ class ViewController: UIViewController {
             
             let bmiDouble = Double(text!)
             
+            //switch case statement for bmi range
             switch bmiDouble!{
             case ..<18.5 :
                 self.rangeLabel.text = "You're underweight 🥺"
