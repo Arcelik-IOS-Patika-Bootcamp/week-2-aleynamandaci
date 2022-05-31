@@ -28,6 +28,7 @@
 		427BE628284646400017FDAA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		427BE62E2846479F0017FDAA /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		4283152928467D34006C31D1 /* bmi.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = bmi.gif; path = ../../../../../Desktop/bmi.gif; sourceTree = "<group>"; };
+		4283152B28467E65006C31D1 /* bmi.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = bmi.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +45,7 @@
 		427BE60E2846463F0017FDAA = {
 			isa = PBXGroup;
 			children = (
+				4283152B28467E65006C31D1 /* bmi.gif */,
 				427BE6192846463F0017FDAA /* homework-2-aleynamandaci */,
 				427BE6182846463F0017FDAA /* Products */,
 			);
