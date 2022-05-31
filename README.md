@@ -10,4 +10,5 @@ Arkadaşlar selamlar! Acı çekeceğiniz ama bolca öğreneceğiniz haftanın ö
 
 metotlarının üçününden seçtiğiniz bir tanesini kullanarak göndermenizi rica ediyoruz. Ödevin deadline'ı 01.06.2022 Çarşamba günü saat 17:00'a kadardır. Her türlü sorunuz için asistanlara ulaşmaktan çekinmeyin. Herkesin şimdiden emeğine sağlık, kolay gelsin.
 
-<img src="https://github.com/Arcelik-IOS-Patika-Bootcamp/week-2-aleynamandaci/blob/main/homework-2-aleynamandaci/bmi.gif" width="360" height="712"/>
+## Example
+<img src="https://github.com/Arcelik-IOS-Patika-Bootcamp/week-2-aleynamandaci/blob/main/homework-2-aleynamandaci/bmi.gif" width="270" height="534"/>
