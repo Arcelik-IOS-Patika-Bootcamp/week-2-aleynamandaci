@@ -25,8 +25,8 @@ class SecondViewController: UIViewController {
     
     //bmi calculate func
     func calculateBmi() -> Double {
-        let weight : Double = Double(weightField.text!)!
-        let height : Double = Double(heightField.text!)!
+        let weight : Double = Double(weightField.text!) ?? 0.0
+        let height : Double = Double(heightField.text!) ?? 0.0
         let bmi = weight / pow(height/100, 2)
         return bmi
     }
